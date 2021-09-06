@@ -1,0 +1,10 @@
+.peliculas-contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
+.pelicula-contenedor{
+  margin: 20px;
+  text-align: center;
+}
